@@ -1,0 +1,4 @@
+*-lock.json
+.now
+.vercel
+node_modules
